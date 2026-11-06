@@ -62,12 +62,23 @@ const developer = {
 *(Catatan: Statistik ini mungkin terlihat keren, tapi sebagian besar commit-nya berisi tulisan "fix typo" atau "update dikit")*
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hendricsimarmata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricsimarmata&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <!-- Menggunakan GitHub Stats Extended (Suksesor aktif dari github-readme-stats) -->
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=hendricsimarmata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hendricsimarmata&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendricsimarmata&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Menggunakan server resmi terbaru dari GitHub Readme Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=hendricsimarmata&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Bonus: Grafik Kontribusi & Summary Card Alternatif -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hendricsimarmata&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ---
@@ -106,5 +117,5 @@ Jangan ragu untuk menyapa! Saya tidak menggigit, kecuali kalau Anda menghapus *d
 <div align="center">
   <i>"Ada 10 jenis orang di dunia ini: mereka yang mengerti biner, dan mereka yang tidak."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=jangan-dihapus&label=Terima+kasih+sudah+mampir!&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hendricsimarmata&label=Terima+kasih+sudah+mampir!&color=00F7FF&style=for-the-badge" />
 </div>
