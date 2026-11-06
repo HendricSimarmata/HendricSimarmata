@@ -1,14 +1,12 @@
 <div align="center">
 
   <!-- Animasi Teks Canggih (Menggunakan Typing SVG) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Halo+Dunia!+Saya+Hendric Simarmata+👋;Full-Stack+Overflow+Developer;Mengubah+Kopi+Menjadi+Baris+Kode;Kadang+Error%2C+Kadang+Jalan+Sendiri" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=04D411&center=true&vCenter=true&width=608&lines=Halo+Dunia!+Saya+Hendric+Simarmata%F0%9F%91%8B;Full-Stack+Overflow+Developer;Mengubah+Kopi+Menjadi+Baris+Kode;Kadang+Error%252C+Kadang+Jalan+Sendiri" alt="Typing SVG" /></a>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=hendricsimarmata&label=Pengunjung+Tersesat&color=blueviolet&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Masih_Bernapas-success?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Kopi_Hari_Ini-3_Gelas-6f4e37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
+    <img src="https://img.shields.io/badge/Kopi_Hari_Ini-6_Gelas-6f4e37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Coffee" />
   </p>
 </div>
 
